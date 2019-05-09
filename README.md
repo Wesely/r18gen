@@ -1,7 +1,7 @@
 # r18gen
 Generating string resource files for your project from .tsv file (Tab-saperate-values). 
 - Which means your strings' content cannot conain tab: `\t`
-- Supports grouping tags that makes translator can work easier.
+- Translate grouping tags into prefix and comments, that makes translator can work easier.
 - For this first version, just translate Excel/spreadsheets TSV to XML
 
 ## Steps
