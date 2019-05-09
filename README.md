@@ -6,12 +6,14 @@ Generating string resource files for your project from .tsv file (Tab-saperate-v
 
 ## Steps
 1. Prepare a SpreadSheets in this format
+![image](https://github.com/Wesely/r18gen/blob/master/Spreadsheet_example.png?raw=true)
+
 
 2. Download/Export it as a TSV file 
 
 3. Open `gen.py` change the `FILENAME` to your `filename.tsv`.
 
-4. run `python gen.py` then you'll see your files.
+4. run `python gen.py` then you'll see your files in the `output` folder.
 
 
 ## Example
