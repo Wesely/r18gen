@@ -1,0 +1,8 @@
+group	name	en	zh-TW	jp
+mainpage	title	Hello	哈囉	こんにちは
+	content	World!	世界	世界
+footer	terms_of_service	Terms of Service	服務條款	利用規約
+	privacy_policy	Privacy Policy	隱私權政策	プライバシー規約
+dummy	engineer	Engineer	工程師	エンジニア
+	software	Software	軟體	ソフトウェア
+	agree	Agree	同意	同意する
